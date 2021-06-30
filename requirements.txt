@@ -3,10 +3,11 @@ Flask==0.12.2
 Flask-Cors==3.0.2
 gunicorn==19.7.1
 Jinja2==2.9.6
-numpy==1.13.1
+numpy == 1.19.2
 numpydoc==0.6.0
 pandas==0.20.2
 scipy==0.19.1
-tensorflow
+six==1.15.0
+tensorflow==1.15
 tflearn==0.3.2
 Werkzeug==0.12.2

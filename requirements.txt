@@ -10,4 +10,4 @@ scipy==0.19.1
 six==1.15.0
 tensorflow
 tflearn==0.3.2
-Werkzeug==0.12.2
+Werkzeug==0.15.5
